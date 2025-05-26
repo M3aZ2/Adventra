@@ -17,6 +17,9 @@ function App() {
           <div>
               mohannad d5el sh3rato
           </div>
+          <div>
+              manzora d5el tslekato
+          </div>
       </>
 
   )
