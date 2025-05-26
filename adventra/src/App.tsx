@@ -3,7 +3,7 @@ function App() {
 
   return (
     <div>
-      nademo d5el 3eono
+      nademo d5el 3e
     </div>
   )
 }
